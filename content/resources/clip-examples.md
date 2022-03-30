@@ -14,4 +14,4 @@ video_metadata:
   youtube_id: 7eZVshlT33Q
 ---
 
-From Lecture 11 of [_18.02 Multivariable Calculus, Fall 2007_](/courses/18-02-multivariable-calculus-fall-2007/pages/video-lectures)
+From Lecture 11 of [_18.02 Multivariable Calculus, Fall 2007_](/courses/18-02-multivariable-calculus-fall-2007/video_galleries/video-lectures)

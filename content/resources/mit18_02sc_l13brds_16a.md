@@ -7,6 +7,7 @@ image_metadata:
   caption: ''
   credit: ''
   image-alt: ''
+parent_uid: 9ebd1d32-024e-0a86-8958-b6ad334b76ad
 resourcetype: Image
 title: MIT18_02SC_L13Brds_16a.png
 uid: ca58c123-6128-1ced-ec1b-19fc1626984c
